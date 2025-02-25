@@ -749,3 +749,15 @@
 2/25/2025 | 4:12:59 PM | INFO | Trying to check user miner status... 
 2/25/2025 | 4:13:00 PM | INFO | Last mining time: 2/24/2025, 4:13:12 PM
 2/25/2025 | 4:13:00 PM | WARN | Mining already started, next mining time is: 2/25/2025, 4:13:12 PM
+2/25/2025 | 8:11:48 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+2/25/2025 | 8:11:49 PM | INFO | Start process for wallet 0x4a64D08b7C253E361238964E04E88e6f32faaf28 
+2/25/2025 | 8:11:49 PM | INFO | Trying To Login for wallet: 0x4a64D08b7C253E361238964E04E88e6f32faaf28 
+2/25/2025 | 8:11:50 PM | INFO | Login successful... 
+2/25/2025 | 8:11:50 PM | INFO | Trying to check user info... 
+2/25/2025 | 8:11:51 PM | INFO | User ID: 102794442 | Twitter: @alsyasalsa | Total Points: 288000 
+2/25/2025 | 8:11:51 PM | INFO | Trying to check user miner status... 
+2/25/2025 | 8:11:52 PM | INFO | Last mining time: 2/24/2025, 4:13:12 PM
+2/25/2025 | 8:11:52 PM | INFO | Trying to start Mining for wallet: 0x4a64D08b7C253E361238964E04E88e6f32faaf28 
+2/25/2025 | 8:11:52 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+2/25/2025 | 8:11:52 PM | INFO | Trying to activate mining on-chain for wallet: 0x4a64D08b7C253E361238964E04E88e6f32faaf28 
+2/25/2025 | 8:12:04 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xb55b84e991f570a65099d964c77af060d1962765935a2b9bb2ad413b792f287e 
