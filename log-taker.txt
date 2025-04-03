@@ -2740,3 +2740,15 @@
 4/3/2025 | 12:52:00 AM | WARN | Retrying... (0 attempts left) 
 4/3/2025 | 12:52:03 AM | ERROR | Failed to get nonce after retries: Request failed with status code 521
 4/3/2025 | 12:52:03 AM | ERROR | Failed to retrieve nonce for wallet: 0x4a64D08b7C253E361238964E04E88e6f32faaf28 
+4/3/2025 | 4:13:40 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/3/2025 | 4:13:40 AM | INFO | Start process for wallet 0x4a64D08b7C253E361238964E04E88e6f32faaf28 
+4/3/2025 | 4:13:41 AM | INFO | Trying To Login for wallet: 0x4a64D08b7C253E361238964E04E88e6f32faaf28 
+4/3/2025 | 4:13:41 AM | INFO | Login successful... 
+4/3/2025 | 4:13:41 AM | INFO | Trying to check user info... 
+4/3/2025 | 4:13:42 AM | INFO | User ID: 102794442 | Twitter: @alsyasalsa | Total Points: 1008000 
+4/3/2025 | 4:13:42 AM | INFO | Trying to check user miner status... 
+4/3/2025 | 4:13:43 AM | INFO | Last mining time: 4/1/2025, 12:21:24 PM
+4/3/2025 | 4:13:43 AM | INFO | Trying to start Mining for wallet: 0x4a64D08b7C253E361238964E04E88e6f32faaf28 
+4/3/2025 | 4:13:44 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/3/2025 | 4:13:44 AM | INFO | Trying to activate mining on-chain for wallet: 0x4a64D08b7C253E361238964E04E88e6f32faaf28 
+4/3/2025 | 4:13:48 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x1e00641903d20e1faffac3f4cfb0a37b9c9bb5fab883de83fc43118de214a6b1 
