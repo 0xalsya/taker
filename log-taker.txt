@@ -3566,3 +3566,16 @@
 4/17/2025 | 12:20:41 PM | INFO | Trying to check user miner status... 
 4/17/2025 | 12:20:42 PM | INFO | Last mining time: 4/16/2025, 4:13:51 PM
 4/17/2025 | 12:20:42 PM | WARN | Mining already started, next mining time is: 4/17/2025, 4:13:51 PM
+4/17/2025 | 4:13:39 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/17/2025 | 4:13:40 PM | INFO | Start process for wallet 0x4a64D08b7C253E361238964E04E88e6f32faaf28 
+4/17/2025 | 4:13:40 PM | INFO | Trying To Login for wallet: 0x4a64D08b7C253E361238964E04E88e6f32faaf28 
+4/17/2025 | 4:13:41 PM | INFO | Login successful... 
+4/17/2025 | 4:13:41 PM | INFO | Trying to check user info... 
+4/17/2025 | 4:13:41 PM | INFO | User ID: 102794442 | Twitter: @alsyasalsa | Total Points: 1320000 
+4/17/2025 | 4:13:41 PM | INFO | Trying to check user miner status... 
+4/17/2025 | 4:13:53 PM | INFO | Last mining time: 4/16/2025, 4:13:51 PM
+4/17/2025 | 4:13:53 PM | INFO | Trying to start Mining for wallet: 0x4a64D08b7C253E361238964E04E88e6f32faaf28 
+4/17/2025 | 4:14:24 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/17/2025 | 4:14:24 PM | INFO | Trying to activate mining on-chain for wallet: 0x4a64D08b7C253E361238964E04E88e6f32faaf28 
+4/17/2025 | 4:14:29 PM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"502 Bad Gateway"},"shortMessage":"server response 502 Bad Gateway"}
+4/17/2025 | 4:14:29 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
