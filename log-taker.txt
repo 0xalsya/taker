@@ -4223,3 +4223,12 @@
 4/28/2025 | 8:11:52 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 4/28/2025 | 8:11:52 PM | INFO | Trying to activate mining on-chain for wallet: 0x4a64D08b7C253E361238964E04E88e6f32faaf28 
 4/28/2025 | 8:12:14 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xba492d3cf12e5842b006bf0b9f6d2ad4a958ab6dc185659516638c351dcd63f1 
+4/29/2025 | 12:54:03 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/29/2025 | 12:54:03 AM | INFO | Start process for wallet 0x4a64D08b7C253E361238964E04E88e6f32faaf28 
+4/29/2025 | 12:54:04 AM | INFO | Trying To Login for wallet: 0x4a64D08b7C253E361238964E04E88e6f32faaf28 
+4/29/2025 | 12:54:05 AM | INFO | Login successful... 
+4/29/2025 | 12:54:05 AM | INFO | Trying to check user info... 
+4/29/2025 | 12:54:06 AM | INFO | User ID: 102794442 | Twitter: @alsyasalsa | Total Points: 1584000 
+4/29/2025 | 12:54:06 AM | INFO | Trying to check user miner status... 
+4/29/2025 | 12:54:06 AM | INFO | Last mining time: 4/28/2025, 8:12:03 PM
+4/29/2025 | 12:54:06 AM | WARN | Mining already started, next mining time is: 4/29/2025, 8:12:03 PM
