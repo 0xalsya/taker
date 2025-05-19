@@ -5379,3 +5379,15 @@
 5/19/2025 | 12:59:32 AM | INFO | Trying to activate mining on-chain for wallet: 0x4a64D08b7C253E361238964E04E88e6f32faaf28 
 5/19/2025 | 1:01:47 AM | ERROR | Activate Mining Error: {"errno":-110,"code":"ETIMEDOUT","syscall":"connect","address":"101.47.19.33","port":443}
 5/19/2025 | 1:01:47 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/19/2025 | 4:19:50 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/19/2025 | 4:19:50 AM | INFO | Start process for wallet 0x4a64D08b7C253E361238964E04E88e6f32faaf28 
+5/19/2025 | 4:19:51 AM | INFO | Trying To Login for wallet: 0x4a64D08b7C253E361238964E04E88e6f32faaf28 
+5/19/2025 | 4:19:52 AM | INFO | Login successful... 
+5/19/2025 | 4:19:52 AM | INFO | Trying to check user info... 
+5/19/2025 | 4:19:52 AM | INFO | User ID: 102794442 | Twitter: @alsyasalsa | Total Points: 1992000 
+5/19/2025 | 4:19:52 AM | INFO | Trying to check user miner status... 
+5/19/2025 | 4:19:53 AM | INFO | Last mining time: 5/18/2025, 4:17:15 AM
+5/19/2025 | 4:19:53 AM | INFO | Trying to start Mining for wallet: 0x4a64D08b7C253E361238964E04E88e6f32faaf28 
+5/19/2025 | 4:19:54 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/19/2025 | 4:19:54 AM | INFO | Trying to activate mining on-chain for wallet: 0x4a64D08b7C253E361238964E04E88e6f32faaf28 
+5/19/2025 | 4:20:06 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x0a9c9517415356d84b8c8446e124e9781222773fc744200639f5d7f5557f7e23 
